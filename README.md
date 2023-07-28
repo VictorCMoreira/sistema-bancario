@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Um sistema que implementa três operações: depósito, saque e extrato.
+Um sistema de conta bancária que implementa três operações: depósito, saque e extrato.
 
 ## Saque
 
